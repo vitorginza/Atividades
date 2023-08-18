@@ -24,7 +24,7 @@ if (restauranteaberto) {
 if(!fome  || !dinheiro){
 console.log("Hoje a janta será em casa")
 }
- if(fome && dinheiro && restauranteabrt){
+ else if(fome && dinheiro && !restauranteabrt){
     console.log("Peça um delivery")
 
  }
