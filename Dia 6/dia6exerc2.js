@@ -2,7 +2,7 @@
 
 let tabuada = parseInt(prompt("Escolha um numero da tabuada"))
 
-for (let i = tabuada; i <= tabuada + 3 ; i++) {
+for (let i = tabuada; i <= tabuada + 2 ; i++) {
     console.log("Numero de entrada:" + i)
 
     for (let b = 0; b <= 10; b++) {
