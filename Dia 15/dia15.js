@@ -21,4 +21,3 @@ for (let i = 0; i < arrayum.length; i++) {
     
     return resultado
 }
-console.log(arrayNumero(arrayA,arrayB))
